@@ -1,5 +1,5 @@
 /***********************************************************************
-  NodeMCU (ESP8266) + Adafruit IO + LED
+  NodeMCU (ESP8266) + Adafruit IO + LED(any hardware device)
 
   Flow:
   Razorpay → Webhook → Pipedream → Adafruit IO feed "amount"
