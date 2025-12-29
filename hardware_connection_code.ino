@@ -3,7 +3,7 @@
 
   Flow:
   Razorpay → Webhook → Pipedream → Adafruit IO feed "amount"
-          → NodeMCU subscribes to "amount" → LED ON when payment received
+          → NodeMCU subscribes to "amount" → LED ON(machine turns on) when correct payment received
  ***********************************************************************/
 
 //*********************** Libraries
